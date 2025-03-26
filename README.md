@@ -1,1 +1,1 @@
-# In Vivo Functional Screening Reveals Kmt2c and Chd7 Deficiencies as Key Epigenetic Factors of Sonic Hedgehog Medulloblastoma Progression. Wang* & Kumegawa* et al.
+# Chromatin Modification Abnormalities by CHD7 and KMT2C Loss Promote Medulloblastoma Progression. Wang W* & Kumegawa K* et al. Cell Reports, 2025
